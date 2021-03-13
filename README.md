@@ -6,12 +6,12 @@ Stepper plate as example.
 
 
 ### parameter files
-| parameter list templates | 	directory |
-| ------------- | ------------- |
-| 3d printer | [3d printer](/3d%20printer/) |
-| later | |
-| later | |
-| later | |
+| parameter list templates | 	directory | Explanation |
+| --------- | --------- | --------- |
+| 3d printer | [3d printer](/3d%20printer/) | List with many dimensions for the construction of a 3d printer, including various standard components |
+| later | | |
+| later | | |
+| later | | |
 
 ## Save time in Autodesk Fusion 360 with the parameter list.
 
