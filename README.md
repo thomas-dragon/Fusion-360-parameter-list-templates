@@ -1,8 +1,16 @@
-# Fusion-360-parameter-list-templates
+# Fusion 360 parameter list templates
 Fusion 360 parameter list templates for different projects
 
 Stepper plate as example.
 ![Example with stepper plate](/images/Fusion_360_Parameter_List.png)
+
+
+### Ordnerstruktur
+| topic    | 	directory |
+| ------------- | ------------- |
+| construction 3d printer |[3d printer] /3d printer/ |
+
+
 
 ## Save time in Autodesk Fusion 360 with the parameter list.
 
