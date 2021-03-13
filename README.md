@@ -5,10 +5,10 @@ Stepper plate as example.
 ![Example with stepper plate](/images/Fusion_360_Parameter_List.png)
 
 
-### Ordnerstruktur
-| topic    | 	directory |
+### parameter files
+| parameter list templates | 	directory |
 | ------------- | ------------- |
-| construction 3d printer | [3d printer](/3d%20printer/) |
+| 3d printer | [3d printer](/3d%20printer/) |
 | later | |
 | later | |
 | later | |
