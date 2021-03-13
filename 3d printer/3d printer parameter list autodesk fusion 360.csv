@@ -1,0 +1,120 @@
+_content,					  ,	1	  ,		ultimate fusion 360 parameter table for 3d printer
+_source						  , 1	  ,     https://github.com/thomas-dragon/Fusion-360-parameter-list-templates
+_author,					  ,	1	  ,		Thomas Dragon
+_version,					  ,	1	  ,		V 1.0 2021-03-13
+_outer_dimensions,			  ,	1	  ,		--- placeholder delimiter ---
+frame_outer_x,				mm, 400 mm,		external dimensions
+frame_outer_y,				mm, 400 mm,		external dimensions
+frame_outer_z,				mm, 600 mm,		external dimensions
+_threaded_screws,			  ,	1	  ,		--- placeholder delimiter ---
+M3_hole_dia,				mm,	3.5 mm,		for printing parts
+M4_hole_dia,				mm,	4.5 mm,		for printing parts
+M5_hole_dia,				mm,	5.2 mm,		for printing parts
+M6_hole_dia,				mm,	6.2 mm,		for printing parts
+M3_hole_dia_thread,			mm,	2.6 mm,		for printing parts to screw 
+M4_hole_dia_thread,			mm,	3.4 mm,		for printing parts to screw 
+M5_hole_dia_thread,			mm,	4.3 mm,		for printing parts to screw 
+M6_hole_dia_thread,			mm,	5.2 mm,		for printing parts to screw 
+M3_head_dia,				mm,	6 mm,		for printing parts
+M4_head_dia,				mm,	7 mm,		for printing parts
+M5_head_dia,				mm,	9 mm,		for printing parts
+M6_head_dia,				mm,	11 mm,		for printing parts
+M3_head_height,				mm,	3 mm,		for printing parts
+M4_head_height,				mm,	4 mm,		for printing parts
+M5_head_height,				mm,	5 mm,		for printing parts
+M6_head_height,				mm,	6 mm,		for printing parts
+_stepper,				  	,	1   ,		--- placeholder delimiter ---
+nema_17_outer_XY,			mm,	43 mm,		nema 17 stepper
+nema_17_outer_z,			mm,	40 mm,		nema 17 stepper
+nema_17_screw_distance,		mm,	31 mm,		nema 17 stepper
+nema_17_center_ring_dia,	mm,	23 mm,		nema 17 stepper
+nema_17_center_ring_height,	mm,	2 mm,		nema 17 stepper
+nema_17_shaft_length,		mm,	24 mm,		nema 17 stepper
+nema_17_shaft_dia,			mm,	5 mm,		nema 17 stepper
+_bearing,				  	,	1   ,		--- placeholder delimiter ---
+lm8uu_outer_dia,			mm,	15 mm,  	bearing lm8uu
+lm8uu_length,				mm,	24 mm,  	bearing lm8uu
+lm8uu_nut_distance_cc,		mm,	16.4 mm,	bearing lm8uu
+scs8uu_lenght,				mm, 30 mm,		bearing scs8uu
+scs8uu_width,				mm, 34.4 mm,	bearing scs8uu
+scs8uu_screw_distance_cc_1,	mm, 18 mm,		bearing scs8uu parallel to the rod
+scs8uu_screw_distance_cc_2,	mm, 24 mm,		bearing scs8uu perpendicular to the rod
+scs8uu_base_road_cc,		mm, 11 mm,		bearing scs8uu distance base to center rod
+scs8uu_screw_hole_dia,		mm, 4 mm,		M4 mounting 
+lmk8luu_length,				mm, 45 mm,		long flange bearing
+lmk8luu_head_xy,			mm, 25 mm,		long flange bearing
+lmk8luu_body_dia,			mm, 15 mm,		long flange bearing
+lmk8luu_circle_holes_dia,	mm, 24 mm,		long flange bearing
+lmk8luu_screw_hole_dia,		mm, 3 mm,		M3 mounting 
+_mounting,				  	,	1   ,		--- placeholder delimiter ---
+kp08_screw_distance_cc,		mm, 42 mm, 		pillow block bearing
+kp08_base_road_cc,			mm, 15 mm,		distance base to center rod
+kp08_screw_hole_dia,		mm, 4 mm, 		M4 mounting 
+sk8_screw_distance_cc,		mm, 32 mm,		end support for shaft	
+sk8_base_road_cc,			mm, 20 mm,		distance base to center rod	
+sk8_screw_hole_dia,			mm, 5 mm, 		M5 mounting 					
+_trapezoidal_screw,		  	,	1   ,		--- placeholder delimiter ---
+trapezoidal_screw_z_length,	mm,	300 mm,		trapezoidal_screw
+coupler_5x8_length,			mm,	25 mm, 		5x8 coupler
+coupler_5x8_outer_dia,		mm,	19 mm, 		5x8 coupler
+t8_nut_outer_dia_1,			mm, 22 mm,		T8 Lead Screw Nut
+t8_nut_outer_dia_2,			mm, 10.2 mm,	T8 Lead Screw Nut
+t8_nut_screw_hole_dia, 		mm, 3 mm, 		M3 mounting
+t8_nut_screw_circle_holes_dia,	mm, 16 mm,	with 4 screw holes 
+_headbed,				  	,	1   ,		--- placeholder delimiter ---		
+heatbed_outer_x,			mm,	220 mm,		heatbed
+heatbed_outer_y,			mm,	220 mm,		heatbed
+heatbed_x_srew_cc,			mm,	210 mm,		heatbed
+heatbed_y_srew_cc,			mm,	210 mm,		heatbed
+_steal_rods,			  	,	1   ,		--- placeholder delimiter ---
+x_rods_distance_cc,			mm,	40 mm,
+y_rods_distance_cc,			mm,	140 mm,
+z_rods_distance_cc,			mm,	300 mm,
+steel_rods_dia,				mm,	8.2 mm,		for printing parts
+_profiles,				  	,	1   ,		--- placeholder delimiter ---
+x_profile_distance_cc,		mm,	60 mm,		alu extrusion profile
+y_profile_distance_cc,		mm,	160 mm,		alu extrusion profile
+z_profile_distance_cc,		mm,	300 mm,		alu extrusion profile
+x_profile_length,			mm,	300 mm,		alu extrusion profile
+y_profile_length,			mm,	300 mm,		alu extrusion profile
+z_profile_length,			mm,	300 mm,		alu extrusion profile
+y_profile_xy,				mm,	20 mm,		alu extrusion profile
+z_profil_x,					mm,	20 mm,		alu extrusion profile
+z_profil_y,					mm,	40 mm,		alu extrusion profile
+profil_nut_width,			mm,	6 mm,		for t nut 6mm 20mm profil
+profil_nut_depth,			mm,	5 mm,		fot t nut 6mm 20mm profil
+_pulley,				  	,	1   ,		--- placeholder delimiter ---
+pulley_gt2_20t_outer_dia,	mm,	16 mm,		20 teeth m4 mounting
+pulley_gt2_20t_inner_dia,	mm,	12.2 mm,	20 teeth m4 mounting
+pulley_gt2_16t_outer_dia,	mm,	13.8 mm,	16 teeth m3 mounting
+pulley_gt2_16t_inner_dia,	mm,	9.4 mm,		16 teeth m3 mounting
+_e3d_hot_end_175,  		  	  ,	1   ,		--- placeholder delimiter ---
+e3d_heigh_all,				mm,	62.3 mm,	e3d
+e3d_mounting_dia_inner,		mm,	12 mm,		e3d
+e3d_mounting_dia_outer,		mm,	16 mm,		e3d
+e3d_mounting_height,		mm,	6 mm,		e3d
+e3d_upper_mount_height,		mm,	3.7 mm,		e3d
+e3d_distance_nozzle_mounting_center, mm, e3d_heigh_all-(e3d_mounting_height/2)-e3d_upper_mount_height, = distance headbed to nozzle
+_flanged_ball_bearing,  	  ,	1   ,		--- placeholder delimiter ---
+f624_zz_outer_dia,			mm,	15 mm,		4x13x5 mm	suitable for gt2 pulley 20
+f624_zz_inner_dia,			mm,	13 mm,		4x13x5 mm	suitable for gt2 pulley 20
+f624_zz_hole_dia, 			mm, 4 mm, 		M4 mounting
+f623_zz_outer_dia,			mm,	11.5 mm,	3x10x4 mm	suitable for gt2 pulley 16
+f623_zz_inner_dia,			mm,	10 mm,		3x10x4 mm	suitable for gt2 pulley 16
+f623_zz_hole_dia, 			mm, 3 mm, 		M3 mounting
+_standard_fans,  	  		,	1   ,		--- placeholder delimiter ---
+fan_30x30_xy_outside,		mm,	30 mm,		30x30 standard fan m3 mounting
+fan_30x30_xy_screw_distance,mm,	24 mm,		30x30 standard fan
+fan_30x30_fan_opening_dia,	mm,	28 mm,		30x30 standard fan
+fan_40x40_xy_outside,		mm,	40 mm,		40x40 standard fan m3 mounting
+fan_40x40_xy_screw_distance,mm,	32 mm,		40x40 standard fan
+fan_40x40_fan_opening_dia,	mm,	38 mm,		40x40 standard fan
+fan_50x50_xy_outside,		mm,	50 mm,		50x50 standard fan m3 mounting
+fan_50x50_xy_screw_distance,mm,	40 mm,		50x50 standard fan
+fan_50x50_fan_opening_dia,	mm,	47 mm,		60x60 standard fan
+fan_60x60_xy_outside,		mm,	60 mm,		60x60 standard fan m4 mounting
+fan_60x60_xy_screw_distance,mm,	51 mm,		60x60 standard fan
+fan_60x60_fan_opening_dia,	mm,	57 mm,		60x60 standard fan
+fan_12x120_xy_outside,		mm,	120 mm,		12x120 standard fan m4 mounting
+fan_12x120_xy_screw_distance,mm, 105 mm,	12x120 standard fan
+fan_12x120_fan_opening_dia,	mm,	116 mm,		12x120 standard fan
