@@ -2,7 +2,7 @@
 Fusion 360 parameter list templates for different projects
 
 Stepper plate as example.
-![Example with stepper plate](/images/Fusion 360 Parameter List.png)
+![Example with stepper plate](/images/Fusion_360_Parameter_List.png)
 
 ## Save time in Autodesk Fusion 360 with the parameter list.
 
