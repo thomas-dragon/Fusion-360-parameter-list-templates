@@ -66,3 +66,4 @@ How about a coffee donation?
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5QXCQYNWP8CCJ)
 
+![Donate](/images/Donate-QR-Code.png)
