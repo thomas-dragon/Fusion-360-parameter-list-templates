@@ -4,7 +4,7 @@ Fusion 360 parameter list templates for different projects
 Stepper plate as example.
 ![Example with stepper plate](/images/Fusion 360 Parameter List.png)
 
-##Save time in Autodesk Fusion 360 with the parameter list.
+## Save time in Autodesk Fusion 360 with the parameter list.
 
 This list for 3d printers contains the most important dimensions and mechanical components.
 Adapt the values to your needs.
@@ -16,7 +16,7 @@ With parameters you can comfortably and clearly change your dimensions, quantiti
 
 You can also export the list and import it into other constructions.
 
-##Note the following:
+## Note the following:
 - The entries cannot be sorted within Fusion.
 - The newest entries are at the bottom.
 - Spaces are not supported in the name.
