@@ -8,7 +8,7 @@ Stepper plate as example.
 ### parameter files
 | parameter list templates | 	directory | Explanation |
 | --------- | --------- | --------- |
-| 3d printer | [3d printer](/3d%20printer/) | List with many dimensions for the construction of a 3d printer, including various standard components |
+| 3d printer | [3d printer](/3d%20printer/) | List with many (>100) dimensions for the construction of a 3d printer, including various standard components |
 | later | | |
 | later | | |
 | later | | |
