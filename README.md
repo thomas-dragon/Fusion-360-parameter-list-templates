@@ -48,13 +48,11 @@ nema_17_screw_distance, mm, 31 mm, nema 17 stepper
 Familiarise yourself with parameter lists:
 
 
-<a href="https://www.youtube.com/watch?v=UVtEG_FXKow
-" target="_blank"><img src="https://www.youtube.com/watch?v=UVtEG_FXKow" 
-alt="" width="480" height="360" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=UVtEG_FXKow
+" target="_blank"><img src="http://img.youtube.com/vi/UVtEG_FXKow/0.jpg" 
+alt="Intermediate Sketch Parameters" width="480" height="360" border="10" /></a>
 
-
-
-Use the free app Parameter I/O for import and export.
+## Fusion Parameter I/O APP Download
 
 https://apps.autodesk.com/FUSION/en/Detail/Index?id=1801418194626000805&appLang=en&os=Mac
 
