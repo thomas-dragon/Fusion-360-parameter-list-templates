@@ -7,3 +7,5 @@
 
 Many values depend on your own construction, of course. However, the list gives you the possibility to bring order into your dimensioning.
 Please question my numerical values before you adopt them.
+
+![3d printer example ](/images/3D_Printer_03_Chassis_41_v52.png)
