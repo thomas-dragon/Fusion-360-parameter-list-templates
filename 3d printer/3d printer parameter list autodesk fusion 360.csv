@@ -89,7 +89,7 @@ pulley_gt2_20t_inner_dia,	mm,	12.2 mm,	20 teeth m4 mounting
 pulley_gt2_16t_outer_dia,	mm,	13.8 mm,	16 teeth m3 mounting
 pulley_gt2_16t_inner_dia,	mm,	9.4 mm,		16 teeth m3 mounting
 _e3d_hot_end_175,  		  	  ,	1   ,		--- placeholder delimiter ---
-e3d_heigh_all,				mm,	62.3 mm,	e3d
+e3d_height_all,				mm,	62.3 mm,	e3d
 e3d_mounting_dia_inner,		mm,	12 mm,		e3d
 e3d_mounting_dia_outer,		mm,	16 mm,		e3d
 e3d_mounting_height,		mm,	6 mm,		e3d
