@@ -42,7 +42,7 @@ You can also export the list and import it into other constructions.
 - If you need numerical values without units, set the unit to an empty entry.
 
 
-You want to create a file outside Fusion
+You want to create a file outside Fusion.
 Take a csv or txt file with the following structure.
 
 ```
