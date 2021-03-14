@@ -27,6 +27,10 @@ With parameters you can comfortably and clearly change your dimensions, quantiti
 
 You can also export the list and import it into other constructions.
 
+### Especially complex constructions with numerous changes require a good parameter list.  
+
+![Fusion 360 3d printer with parameter list](/images/3D_Printer_03_Chassis_41_v52.png)
+
 ## Note the following:
 - The entries cannot be sorted within Fusion.
 - The newest entries are at the bottom.
