@@ -40,6 +40,7 @@ Stepper plate as short example.
 - Spaces are not supported in the name.
 - Think about which values you need right at the beginning.
 - Create the list in a sensible order.
+- Use the Fusion Parameter I/O APP to import / export the list. 
 - You can edit the list outside of Fusion.
 - You cannot overwrite lists or change the order afterwards. However, you can import your optimised list into a newly created file.
 - If you need numerical values without units, set the unit to an empty entry.
