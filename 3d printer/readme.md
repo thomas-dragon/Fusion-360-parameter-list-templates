@@ -1,7 +1,7 @@
 ## Content
 
 ### parameter files + short fusion example
-| parameter list template | content | 	fusion 360 eexample |
+| parameter list template | content | 	fusion 360 example |
 | ---------- | ---------- | ---------- |
 | 3d printer parameter list autodesk fusion 360.csv | standarddimensions, bearings, stepper, screws, pulleys, fans | stepper mount with parameter v1.f3d |
 
