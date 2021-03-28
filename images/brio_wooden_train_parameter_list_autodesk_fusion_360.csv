@@ -1,0 +1,27 @@
+track_height,mm,12 mm,
+track_width,mm,40 mm,
+groove_distance_cc,mm,26 mm,
+groove_wide_top,mm,6.5 mm,
+groove_wide_bottom,mm,5.5 mm,
+groove_deep,mm,3.2 mm,
+groove_spacing_double_track_cc,mm,46 mm,Groove spacing double track center-center
+hole_diameter,mm,16 mm,
+hole_distance,mm,5 mm,
+hole_center_track_end,mm,hole_diameter / 2 + hole_distance,
+hole_web_width,mm,7.3 mm,
+spigot_diameter,mm,11.5 mm,
+spigot_distance,mm,7 mm,
+spigot_center_track_end,mm,spigot_diameter / 2 + spigot_distance,
+spigot_web_width,mm,6.3 mm,
+long_track_length,mm,216 mm,d standard track
+middle_track_length,mm,long_track_length * 2 / 3,a b middle track
+short_track_length,mm,long_track_length / 2,A1 B1 C1 short track
+mini_track_length,mm,long_track_length / 4,A2 Bs mini track
+A2_track_length,mm,72 mm,A2 track = 1/2 A
+long_curve_inner_radius,mm,182 mm,
+long_curve_angle,deg,45 °,
+short_curve_inner_radius,mm,91 mm,
+short_curve_angle,deg,45 °,
+switching_track_lenght,mm,middle_track_length,= middle track
+mechanical_switches_length,mm,long_track_length * 2 / 3,
+fillet,mm,0.5 mm,
