@@ -8,11 +8,14 @@
 Many values depend on your own construction, of course. However, the list gives you the possibility to bring order into your dimensioning.
 Please question my numerical values before you adopt them.
 
-Please note. The dimensions can differ from the individual original parts. Brio is just an example here. There are numerous manufacturers of wooden trains.
+Please note. The dimensions can differ from the individual original parts. Brio® is just an example here. There are numerous manufacturers of wooden trains.
 
 ![wooden train top](/images/brio_wooden_train_parameter_list_autodesk_fusion_360.png)
 
 ![wooden train front](/images/brio_wooden_train_parameter_list_autodesk_fusion_360_front.png)
+
+### Overview of Brio® rails with some dimensions (not complete)
+
 
 | track id | name            | connector male | connector femal | length | proportion | radius               |
 |----------|-----------------|----------------|-----------------|--------|------------|----------------------|
