@@ -3,7 +3,7 @@
 ### parameter files + short fusion example
 | parameter list template | content | 	fusion 360 example |
 | ---------- | ---------- | ---------- |
-|  [wooden train template](/wooden_train/brio_wooden_train_parameter_list_autodesk_fusion_360.csv/) | standard dimensions | [wooden train fusion example] (/wooden_train/wooden_train_parameter_list_autodesk_fusion_360_example%20v1.f3d/) |
+|  [wooden train template](/wooden_train/brio_wooden_train_parameter_list_autodesk_fusion_360.csv/) | standard dimensions | [wooden train fusion example](/wooden_train/wooden_train_parameter_list_autodesk_fusion_360_example%20v1.f3d/) |
 
 Many values depend on your own construction, of course. However, the list gives you the possibility to bring order into your dimensioning.
 Please question my numerical values before you adopt them.
