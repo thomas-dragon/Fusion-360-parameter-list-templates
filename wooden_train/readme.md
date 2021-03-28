@@ -45,20 +45,20 @@ Please note. The dimensions can differ from the individual original parts. Brio 
 | J        | curved switch   | X              | x               | 144    | 2/3 D      | 182 innen            |
 | K        | switching crossing | X              | x               | 216    | D          |                      |
 | K1       | double tracks   | X              | x               | 216    | D          |                      |
-| L        | Weiche          | X              | x               | 144    | 2/3 D      | 182 innen            |
-| L1       | Weiche mech.    | X              | x               | 144    | 2/3 D      | 182 innen            |
-| M        | Weiche          | X              | x               | 144    | 2/3 D      | 182 innen            |
-| M1       | Weiche mech.    | X              | x               | 144    | 2/3 D      | 182 innen            |
-| N        | Rampengleis     | X              | x               | 216    | D          |                      |
-| N1       | Rampengleis     | X              |                 | 216    | D          |                      |
-| O        | Weiche          | x              | x               |        |            | 90 innen             |
-| P        | Weiche          | x              | x               |        |            | 90 innen             |
-| O1       | Kurzweiche      | x              | x               | 108    | 1/2 D      | 90 innen             |
-| P1       | Kurzweiche      | x              | x               | 108    | 1/2 D      | 90 innen             |
-| Q        | Weiche 5x       |                |                 | 144    | 2/3 D      |                      |
-| R        | Stopper         | x              |                 | 40     |            |                      |
-| S        | Stopper         |                | x               | 40     |            |                      |
-| T        | T Weiche        | x              | x               | 216    | D          | 88 innen             |
-| U        | Rampe           | x              |                 | 54     |            |                      |
-| V        | Rampe           |                | x               | 54     |            |                      |
-| X        | Weiche Stern    | x              | x               | 216    | D          | 88 innen             |
+| L        | curved switch   | X              | x               | 144    | 2/3 D      | 182 innen            |
+| L1       | curved switch   | X              | x               | 144    | 2/3 D      | 182 innen            |
+| M        | curved switch   | X              | x               | 144    | 2/3 D      | 182 innen            |
+| M1       | curved switch   | X              | x               | 144    | 2/3 D      | 182 innen            |
+| N        | ascending       | X              | x               | 216    | D          |                      |
+| N1       | ascending       | X              |                 | 216    | D          |                      |
+| O        | short curved switch | x              | x               |        |            | 90 innen             |
+| P        | short curved switch | x              | x               |        |            | 90 innen             |
+| O1       | short curved switch | x              | x               | 108    | 1/2 D      | 90 innen             |
+| P1       | short curved switch | x              | x               | 108    | 1/2 D      | 90 innen             |
+| Q        | switch 5x       |                |                 | 144    | 2/3 D      |                      |
+| R        | stop            | x              |                 | 40     |            |                      |
+| S        | stop            |                | x               | 40     |            |                      |
+| T        | t switch        | x              | x               | 216    | D          | 88 innen             |
+| U        | ramp            | x              |                 | 54     |            |                      |
+| V        | ramp            |                | x               | 54     |            |                      |
+| X        | star switch     | x              | x               | 216    | D          | 88 innen             |
